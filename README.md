@@ -1,4 +1,4 @@
-# TrudidoScannerSDK
+# trudido-scanner
 
 An Android library module for document scanning powered by OpenCV and CameraX. Capture a photo, automatically detect the document corners, and let the user fine-tune the crop - all packaged as a reusable AAR.
 
