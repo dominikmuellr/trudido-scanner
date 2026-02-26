@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="/mnt/Storage/Projects/TrudidoScannerSDK" />
+            <option value="/mnt/Storage/Projects/TrudidoScannerSDK/app" />
+            <option value="/mnt/Storage/Projects/TrudidoScannerSDK/scanner" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="/mnt/Storage/Projects/TrudidoScannerSDK" />
+        <option name="modules">
+          <set>
+            <option value="/mnt/Storage/Projects/TrudidoScannerSDK" />
+            <option value="/mnt/Storage/Projects/TrudidoScannerSDK/app" />
+            <option value="/mnt/Storage/Projects/TrudidoScannerSDK/scanner" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

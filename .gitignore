@@ -1,0 +1,34 @@
+# IDE
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.DS_Store
+
+# Local machine config (contains SDK path — differs per developer)
+local.properties
+
+# Build outputs
+/build
+**/build/
+
+# Android Studio captures
+/captures
+
+# CMake / NDK intermediate files
+.externalNativeBuild
+.cxx
+**/.cxx/
+
+# OpenCV source zip archives (extracted opencv/ folder is already committed)
+**/cpp/*.zip
+**/cpp/*.zip.*
+
+# Gradle cache
+.gradle/
+
+# VS Code
+.vscode/
